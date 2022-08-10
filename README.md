@@ -9,6 +9,7 @@ You can read more about it on our website TODO LINK (🇫🇷)
 
 ⚠️ This project is given as an example, some choices were made and might be specific to the website we built.
 
+![https://remix-shop-example.vercel.app/](preview.jpg)
 ## External services
 
 ### Hygraph
